@@ -40,7 +40,7 @@ Contribuições são bem-vindas! Se você encontrar problemas, bugs ou melhorias
 
 ## Licença
 
-Este projeto é um clone de outro projeto logo não sei se tem licença alguma mas sei lá, boa sorte.
+Este projeto é licenciado sob a [Sua Licença].
 
 ---
 © 2024 Arthur Horyu. Todos os direitos reservados.
